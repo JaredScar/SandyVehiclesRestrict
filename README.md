@@ -24,4 +24,4 @@ Now what happens in game when users try to drive the super cars whilst the restr
 
 https://i.gyazo.com/d1aca410201e11627b617d7184a20414.gif
 
-They simply get kicked out of the vehicle :slight_smile:
+They simply get kicked out of the vehicle :)
