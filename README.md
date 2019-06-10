@@ -8,7 +8,7 @@ What this script does is restricts vehicles for all users on the server if the A
 
 ##### KEEP IN MIND: The restrictions list is missing a lot of super and sports vehicles. You can easily add their spawn codes into the list in client.lua via “restrictList” list.
 
-## Commands:
+### Commands:
 /sandy on - Turns the restrictions for vehicles on
 /sandy off - Turns the restrictions for vehicles off
 
