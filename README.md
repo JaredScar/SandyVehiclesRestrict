@@ -17,6 +17,6 @@ Upon running /sandy off, a message will be sent like:
 ![sandy off](https://i.gyazo.com/3d65d82458daab2698005cad83d4de65.png)
 Now what happens in game when users try to drive the super cars whilst the restrictions are on you ask?:
 
-![What happens](https://i.gyazo.com/d1aca410201e11627b617d7184a20414.gif)
+https://i.gyazo.com/d1aca410201e11627b617d7184a20414.gif
 
 They simply get kicked out of the vehicle :slight_smile:
