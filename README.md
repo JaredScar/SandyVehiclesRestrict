@@ -2,6 +2,10 @@
 
 ## Version 1.0
 
+### Install Information:
+
+https://forum.fivem.net/t/release-sandy-vehicles-restrict/564929
+
 This is a pretty simple script, but I felt a need for it.
 
 What this script does is restricts vehicles for all users on the server if the AOP is Sandy Shores. The way this is done is by a command being ran.
